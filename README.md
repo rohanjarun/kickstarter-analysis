@@ -30,8 +30,9 @@ October had no cancellations (as opposed to other months)
 The campaigns which costed less than 1000 dollars had the highest success rate while most of the failed campaigns were in the 45,000 to 49,000 range
 
 - What are some limitations of this dataset?
+- 
 There were only a few years in this specific data set from 2011 to 2017 (total 6 years) which could've been more.
 
 - What are some other possible tables and/or graphs that we could create?
-- 
+
 We could create multiple different permutations and combinations of pivot tables and used bar graphs instead of just line graphs to cut a different visualization
